@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+
+    <string-array name="names">
+        <item> Admin</item>
+        <item> Sales</item>
+        <item> Cashier</item>
+
+    </string-array>
+
+    <string-array name="names1">
+        <item> A</item>
+        <item> B</item>
+        <item> C</item>
+
+    </string-array>
+
+
+</resources>
